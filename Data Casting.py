@@ -10,3 +10,5 @@ print(type(price),type(price_float))
 roll = 95
 roll_str = str(roll)
 print(type(roll),type(roll_str))
+
+title = 'this is title'
